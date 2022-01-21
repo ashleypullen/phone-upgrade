@@ -1,0 +1,10 @@
+C:\Users\ashle\source\repos\PhoneUpgrade\PhoneUpgrade\bin\Debug\PhoneUpgrade.exe.config
+C:\Users\ashle\source\repos\PhoneUpgrade\PhoneUpgrade\bin\Debug\PhoneUpgrade.exe
+C:\Users\ashle\source\repos\PhoneUpgrade\PhoneUpgrade\bin\Debug\PhoneUpgrade.pdb
+C:\Users\ashle\source\repos\PhoneUpgrade\PhoneUpgrade\obj\Debug\PhoneUpgrade.csprojAssemblyReference.cache
+C:\Users\ashle\source\repos\PhoneUpgrade\PhoneUpgrade\obj\Debug\PhoneUpgrade.Form1.resources
+C:\Users\ashle\source\repos\PhoneUpgrade\PhoneUpgrade\obj\Debug\PhoneUpgrade.Properties.Resources.resources
+C:\Users\ashle\source\repos\PhoneUpgrade\PhoneUpgrade\obj\Debug\PhoneUpgrade.csproj.GenerateResource.cache
+C:\Users\ashle\source\repos\PhoneUpgrade\PhoneUpgrade\obj\Debug\PhoneUpgrade.csproj.CoreCompileInputs.cache
+C:\Users\ashle\source\repos\PhoneUpgrade\PhoneUpgrade\obj\Debug\PhoneUpgrade.exe
+C:\Users\ashle\source\repos\PhoneUpgrade\PhoneUpgrade\obj\Debug\PhoneUpgrade.pdb
